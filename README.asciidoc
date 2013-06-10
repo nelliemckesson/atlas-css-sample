@@ -1,0 +1,3 @@
+== Sample Template Folder Structure
+
+This is the structure for O'Reilly Atlas repositories.
